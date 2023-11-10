@@ -1,0 +1,9 @@
+React component
+1-> class based component
+2-> functional based component
+    If something retunns jsx element/react element/a peice of jsx it known functional component;
+    example : 
+    const HeadingComponent = () => {
+        retunr <h1> Namaste react </h1>;
+    }
+
